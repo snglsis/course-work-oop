@@ -1,10 +1,10 @@
-package ua.opnu.labwork2;
+package ua.opnu.labwork4;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Labwork2ApplicationTests {
+class Labwork4ApplicationTests {
 
     @Test
     void contextLoads() {
