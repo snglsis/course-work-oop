@@ -14,8 +14,8 @@ public class EventMapper {
                 event.getEndTime(),
                 event.getStatus(),
                 event.getOrganizer() != null ? event.getOrganizer().getId() : null,
-                event.getHall()      != null ? event.getHall().getId()      : null,
-                event.getBuilding()  != null ? event.getBuilding().getId()  : null
+                event.getHall() != null ? event.getHall().getId() : null,
+                event.getBuilding() != null ? event.getBuilding().getId() : null
         );
     }
 
